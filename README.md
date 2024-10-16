@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi this is John making changes to his README!
 
 <!--
 **JohnCassidy18/JohnCassidy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
